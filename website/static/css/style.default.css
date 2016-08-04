@@ -136,8 +136,8 @@ p.social a i {
 p.social a.facebook {
   background-color: #4460ae;
 }
-p.social a.gplus {
-  background-color: #c21f25;
+p.social a.linkedin {
+  background-color: #007bb6;
 }
 p.social a.twitter {
   background-color: #3cf;
@@ -176,7 +176,7 @@ p.social a.email {
 }
 #page1 {
   text-align: center;
-  background: url('../img/macbook-juice.jpg') center center no-repeat;
+  background: url('../img/cover-pic.jpg') center center no-repeat;
   background-size: cover;
   color: #fff;
 }
